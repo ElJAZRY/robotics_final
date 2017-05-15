@@ -1,5 +1,4 @@
-# Navigation and Localization TurtleBot2 using ROS  
-
+# Navigation and Localization TurtleBot2 using ROS  
 
 
   - ROS
